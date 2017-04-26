@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-app3</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>flip</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/cursive/</ImageTemplate>
+            <ImageTemplateName>Cursive</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/LANIX-16/Documents\WOW Slider/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/LANIX-16/Documents\WOW Slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Pacifico</TemplateFont>
+            <TemplateName>cursive</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>30</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>40</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/asp-1.jpg</url>
+                <title>asp-1</title>
+                <filesize>131113</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/asp-2.jpg</url>
+                <title>asp-2</title>
+                <filesize>237756</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/c.jpg</url>
+                <title>c</title>
+                <filesize>114644</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/c1.jpg</url>
+                <title>c1</title>
+                <filesize>2633154</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/como-java.jpg</url>
+                <title>como-java</title>
+                <filesize>384753</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/como-java1.jpg</url>
+                <title>como-java1</title>
+                <filesize>2723456</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/comunicaciones.png</url>
+                <title>comunicaciones</title>
+                <filesize>224244</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/comunicaciones1.jpg</url>
+                <title>comunicaciones1</title>
+                <filesize>2937336</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/estructuras.PNG</url>
+                <title>estructuras</title>
+                <filesize>328740</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/estructuras1.jpg</url>
+                <title>estructuras1</title>
+                <filesize>3366635</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/fundamentos.jpg</url>
+                <title>fundamentos</title>
+                <filesize>11104</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/fundamentos1.jpg</url>
+                <title>fundamentos1</title>
+                <filesize>3133595</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/java-objetos.jpg</url>
+                <title>java-objetos</title>
+                <filesize>6627</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/java-objetos1.jpg</url>
+                <title>java-objetos1</title>
+                <filesize>3015195</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/mantenimiento.jpg</url>
+                <title>mantenimiento</title>
+                <filesize>74970</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/mantenimiento1.jpg</url>
+                <title>mantenimiento1</title>
+                <filesize>2869196</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/redes-compu.jpg</url>
+                <title>redes-compu</title>
+                <filesize>38377</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/redes-compu1.jpg</url>
+                <title>redes-compu1</title>
+                <filesize>2497976</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/sistemas-op.jpg</url>
+                <title>sistemas-op</title>
+                <filesize>12926</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/sistemas-op1.jpg</url>
+                <title>sistemas-op1</title>
+                <filesize>3206369</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/sql.jpg</url>
+                <title>sql</title>
+                <filesize>10005</filesize>
+            </Image>
+            <Image>
+                <url>J:/16_DAM/2 Parcial/Aplicaciones/app3/imagenes/sql1.jpg</url>
+                <title>sql1</title>
+                <filesize>2732919</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
